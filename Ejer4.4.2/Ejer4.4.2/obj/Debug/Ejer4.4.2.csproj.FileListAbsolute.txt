@@ -1,0 +1,11 @@
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\Ejer4.4.2.exe.config
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\Ejer4.4.2.exe
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\Ejer4.4.2.pdb
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.AssemblyReference.cache
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4._4._2.Form1.resources
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4._4._2.Properties.Resources.resources
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.GenerateResource.cache
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.exe
+C:\Users\isabe\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\Ejer4.4.2.pdb
